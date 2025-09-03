@@ -1,0 +1,1 @@
+# Restaurante 'Sabor Peruano'\n\nEjecuta `pip install -r requirements.txt` y luego `python app/main.py`.\n

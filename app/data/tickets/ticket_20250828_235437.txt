@@ -1,0 +1,7 @@
+===== TICKET RESTAURANTE POS =====
+Fecha: 28/08/2025 23:54:37
+-----------------------------------
+Ceviche Clásico x1  S/ 24.00
+-----------------------------------
+TOTAL: S/ 24.00
+¡Gracias por su compra!

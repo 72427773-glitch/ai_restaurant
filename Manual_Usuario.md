@@ -1,0 +1,1 @@
+# Manual de Usuario\n\n1) Mesa. 2) Platillos (coma). 3) Precios (coma). 4) Registrar.\n
